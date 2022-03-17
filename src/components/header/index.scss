@@ -1,0 +1,19 @@
+.header{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  h1{
+    font-family: "Rajdhani", sans-serif;
+    font-size: 2.5rem;
+    margin: 1rem;
+    color: #184d47;
+  }
+  h3{
+    font-family: "Rajdhani", sans-serif;
+    font-size: 1.75rem;
+    margin: 1rem;
+    color: #184d47;
+  }
+}
